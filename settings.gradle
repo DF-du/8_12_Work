@@ -1,0 +1,3 @@
+rootProject.name='8_12_Work'
+include ':app'
+include ':jsonobject'
